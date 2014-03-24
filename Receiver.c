@@ -9,11 +9,8 @@
  * Thursday 11 April 2013.
  * Copyright 2013
  * 
- * Telecommunications Research Group Office, Room 804, 
- * Roberts Buidling, Department of Electronic & Electrical Engineering
- * University College London
- * Malet Place, London, WC1E 7JE, United Kingdom.
- * 
+ * MIT Licence. See LICENCE file. 
+ *
  */
 
 unsigned short int channel = 11;  // 2.4 GHz PHY channels 11-26
