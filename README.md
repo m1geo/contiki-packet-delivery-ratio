@@ -19,7 +19,7 @@ more reliable communications between two motes.
 
 George Smart, M1GEO <george@george-smart.co.uk>
 
-Telecommunications Research Group Office, Room 804, 
-Roberts Buidling, Department of Electronic & Electrical Engineering
-University College London
+Telecommunications Research Group Office, Room 804;
+Roberts Buidling, Department of Electronic & Electrical Engineering;
+University College London;
 Malet Place, London, WC1E 7JE, United Kingdom.
