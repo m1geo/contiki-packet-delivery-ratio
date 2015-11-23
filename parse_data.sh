@@ -1,5 +1,5 @@
 echo "George Smart, M1GEO"
-echo "Mon 24 March 2014"
+echo "Monday 24 March 2014"
 
 echo "Working on file: $1"
 
